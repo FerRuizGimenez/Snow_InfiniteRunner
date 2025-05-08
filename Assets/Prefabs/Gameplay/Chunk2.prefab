@@ -36,7 +36,7 @@ Transform:
   - {fileID: 4944095025788726373}
   - {fileID: 132936747256707698}
   - {fileID: 2287574134115615690}
-  - {fileID: 7452751179302610118}
+  - {fileID: 459404172992677632}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &5930698119299639962
@@ -184,6 +184,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 587300202454174282}
     m_Modifications:
+    - target: {fileID: 1750570364075058053, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1750570364075058053, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.88
+      objectReference: {fileID: 0}
     - target: {fileID: 6543120483845849091, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
       propertyPath: m_Name
       value: BottleCollectable
@@ -233,9 +241,9 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
---- !u!4 &7452751179302610118 stripped
+--- !u!4 &459404172992677632 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 8738701160858124355, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
+  m_CorrespondingSourceObject: {fileID: 1750570364075058053, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
   m_PrefabInstance: {fileID: 2173945396417176709}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2206463580417951475

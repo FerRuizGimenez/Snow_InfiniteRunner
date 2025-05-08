@@ -7121,10 +7121,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1078144625290941854, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1750570364075058053, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.665
@@ -7168,6 +7164,10 @@ PrefabInstance:
     - target: {fileID: 4958068353268485419, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
       propertyPath: m_Name
       value: BottleCollectable
+      objectReference: {fileID: 0}
+    - target: {fileID: 4958068353268485419, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

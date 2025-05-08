@@ -34,8 +34,7 @@ Transform:
   - {fileID: 3278263715994466554}
   - {fileID: 4851518288751689909}
   - {fileID: 6798823289687645658}
-  - {fileID: 1859186295475968626}
-  - {fileID: 8697898612020747431}
+  - {fileID: 1853363923032948577}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2186277435774919126
@@ -59,6 +58,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 5102011725128740602}
     m_Modifications:
+    - target: {fileID: 1750570364075058053, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1750570364075058053, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 1750570364075058053, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.34
+      objectReference: {fileID: 0}
     - target: {fileID: 6543120483845849091, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
       propertyPath: m_Name
       value: BottleCollectable
@@ -108,9 +119,9 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
---- !u!4 &8697898612020747431 stripped
+--- !u!4 &1853363923032948577 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 8738701160858124355, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
+  m_CorrespondingSourceObject: {fileID: 1750570364075058053, guid: 1fd55c2862c9b1e438b8ea6c632946e7, type: 3}
   m_PrefabInstance: {fileID: 140525092540128484}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1467981503012203863
@@ -372,70 +383,4 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 5029701358512993746, guid: 5832b51c9fed0294eaeeea67c12fa3ab, type: 3}
   m_PrefabInstance: {fileID: 7544564874199797032}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &8695138657272433834
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 5102011725128740602}
-    m_Modifications:
-    - target: {fileID: 7018436294466541272, guid: 5a8f205427641a94a86ea01e7f098131, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7018436294466541272, guid: 5a8f205427641a94a86ea01e7f098131, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7018436294466541272, guid: 5a8f205427641a94a86ea01e7f098131, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 9.45
-      objectReference: {fileID: 0}
-    - target: {fileID: 7018436294466541272, guid: 5a8f205427641a94a86ea01e7f098131, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7018436294466541272, guid: 5a8f205427641a94a86ea01e7f098131, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7018436294466541272, guid: 5a8f205427641a94a86ea01e7f098131, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7018436294466541272, guid: 5a8f205427641a94a86ea01e7f098131, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7018436294466541272, guid: 5a8f205427641a94a86ea01e7f098131, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7018436294466541272, guid: 5a8f205427641a94a86ea01e7f098131, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7018436294466541272, guid: 5a8f205427641a94a86ea01e7f098131, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8827245692544580976, guid: 5a8f205427641a94a86ea01e7f098131, type: 3}
-      propertyPath: m_Name
-      value: FishCollectable
-      objectReference: {fileID: 0}
-    - target: {fileID: 8827245692544580976, guid: 5a8f205427641a94a86ea01e7f098131, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 5a8f205427641a94a86ea01e7f098131, type: 3}
---- !u!4 &1859186295475968626 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7018436294466541272, guid: 5a8f205427641a94a86ea01e7f098131, type: 3}
-  m_PrefabInstance: {fileID: 8695138657272433834}
   m_PrefabAsset: {fileID: 0}
