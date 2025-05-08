@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc87b7ae221cc6a4896edf9faf4ff735, type: 3}
+  m_Name: Beanie 03
+  m_EditorClassIdentifier: 
+  ItemName: Beanie 3
+  ItemPrice: 0
+  Thumbnail: {fileID: 21300000, guid: a0804693be1a525478c203964e48a865, type: 3}
+  Model: {fileID: 8422785461806450989, guid: 2c56d5c569cc7ba41b3e7ddddecd9bc6, type: 3}

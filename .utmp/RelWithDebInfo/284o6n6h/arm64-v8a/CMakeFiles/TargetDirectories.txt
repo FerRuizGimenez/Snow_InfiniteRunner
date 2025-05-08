@@ -1,0 +1,5 @@
+E:/0.2 New Unity projects/0.2 Projects/2024Runner/.utmp/RelWithDebInfo/284o6n6h/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/0.2 New Unity projects/0.2 Projects/2024Runner/.utmp/RelWithDebInfo/284o6n6h/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/0.2 New Unity projects/0.2 Projects/2024Runner/.utmp/RelWithDebInfo/284o6n6h/arm64-v8a/GameActivity/CMakeFiles/game.dir
+E:/0.2 New Unity projects/0.2 Projects/2024Runner/.utmp/RelWithDebInfo/284o6n6h/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+E:/0.2 New Unity projects/0.2 Projects/2024Runner/.utmp/RelWithDebInfo/284o6n6h/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
